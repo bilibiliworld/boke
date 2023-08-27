@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>萝莉王的故乡</title>
+  
+  <subtitle>欢迎来到萝莉乡</subtitle>
+  <link href="https://www.loliking.xyz/atom.xml" rel="self"/>
+  
+  <link href="https://www.loliking.xyz/"/>
+  <updated>2023-08-26T11:46:25.788Z</updated>
+  <id>https://www.loliking.xyz/</id>
+  
+  <author>
+    <name>初代萌王</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo优化小寄巧</title>
+    <link href="https://www.loliking.xyz/posts/7050.html"/>
+    <id>https://www.loliking.xyz/posts/7050.html</id>
+    <published>2023-08-26T11:31:30.000Z</published>
+    <updated>2023-08-26T11:46:25.788Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;获取网站logo&quot;&gt;&lt;a href=&quot;#获取网站logo&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="https://www.loliking.xyz/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="matery-pro" scheme="https://www.loliking.xyz/tags/matery-pro/"/>
+    
+    <category term="hexo" scheme="https://www.loliking.xyz/tags/hexo/"/>
+    
+    <category term="美化" scheme="https://www.loliking.xyz/tags/%E7%BE%8E%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1</title>
+    <link href="https://www.loliking.xyz/posts/54465.html"/>
+    <id>https://www.loliking.xyz/posts/54465.html</id>
+    <published>2023-08-24T08:04:27.000Z</published>
+    <updated>2023-08-27T09:09:36.135Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;douban-card-block&quot;&gt;
+    &lt;a class=&quot;douban-card&quot; href=&quot;https://movie.douban.com/subject/24745500&quot;&gt;
+        &lt;div bg-lazy=&quot;&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="test" scheme="https://www.loliking.xyz/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>域名邮箱创建</title>
+    <link href="https://www.loliking.xyz/posts/29867.html"/>
+    <id>https://www.loliking.xyz/posts/29867.html</id>
+    <published>2023-08-24T02:18:11.000Z</published>
+    <updated>2023-08-27T09:12:50.054Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;本教程默认使用cloudflare进行CDN加速服务，在此基础上使用它的电子邮箱路由服务&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;1-配置邮箱转发&quot;&gt;&lt;a href=&quot;#1-配置邮箱转发&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="https://www.loliking.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="邮箱" scheme="https://www.loliking.xyz/tags/%E9%82%AE%E7%AE%B1/"/>
+    
+    <category term="cloudflare" scheme="https://www.loliking.xyz/tags/cloudflare/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Onedrive文件夹删除</title>
+    <link href="https://www.loliking.xyz/posts/26851.html"/>
+    <id>https://www.loliking.xyz/posts/26851.html</id>
+    <published>2023-08-24T01:16:05.000Z</published>
+    <updated>2023-08-27T10:39:26.656Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;一、取消-OneDrive-账户与电脑的链接&quot;&gt;&lt;a href=&quot;#一、取消-OneDrive-账户与电脑的链接&quot; class=&quot;headerlink&quot; title=&quot;一、取消 OneDrive 账户与电脑的链接&quot;&gt;&lt;/a&gt;一、取消 OneDrive</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="https://www.loliking.xyz/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="Onedrive" scheme="https://www.loliking.xyz/tags/Onedrive/"/>
+    
+    <category term="注册表" scheme="https://www.loliking.xyz/tags/%E6%B3%A8%E5%86%8C%E8%A1%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo下安装live2d插件</title>
+    <link href="https://www.loliking.xyz/posts/10824.html"/>
+    <id>https://www.loliking.xyz/posts/10824.html</id>
+    <published>2023-08-23T15:06:16.000Z</published>
+    <updated>2023-08-25T16:11:54.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;先cd到hexo主题的source文件夹下，执行&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-bash&quot; data-language=&quot;bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="https://www.loliking.xyz/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="Hexo" scheme="https://www.loliking.xyz/tags/Hexo/"/>
+    
+    <category term="live2d" scheme="https://www.loliking.xyz/tags/live2d/"/>
+    
+    <category term="matery-pro" scheme="https://www.loliking.xyz/tags/matery-pro/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>问题检索简易指南</title>
+    <link href="https://www.loliking.xyz/posts/39758.html"/>
+    <id>https://www.loliking.xyz/posts/39758.html</id>
+    <published>2023-08-23T00:59:55.000Z</published>
+    <updated>2023-08-25T16:11:54.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="https://www.loliking.xyz/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="方法论" scheme="https://www.loliking.xyz/tags/%E6%96%B9%E6%B3%95%E8%AE%BA/"/>
+    
+    <category term="教程" scheme="https://www.loliking.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://www.loliking.xyz/posts/63534.html"/>
+    <id>https://www.loliking.xyz/posts/63534.html</id>
+    <published>2023-08-22T04:37:53.000Z</published>
+    <updated>2023-08-25T16:11:54.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h1&gt;&lt;h2 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="https://www.loliking.xyz/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="Obsidian" scheme="https://www.loliking.xyz/tags/Obsidian/"/>
+    
+    <category term="Markdown" scheme="https://www.loliking.xyz/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://www.loliking.xyz/posts/16107.html"/>
+    <id>https://www.loliking.xyz/posts/16107.html</id>
+    <published>2023-08-21T01:25:00.000Z</published>
+    <updated>2023-08-25T16:11:54.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="https://www.loliking.xyz/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="Helps" scheme="https://www.loliking.xyz/tags/Helps/"/>
+    
+  </entry>
+  
+</feed>

@@ -1,0 +1,10 @@
+/* Here is your custom css styles. */
+
+@font-face{
+    font-family: "CEFFontsCJK-Regular";
+    src: url("../font/CEFFontsCJK-Regular.ttf");
+}
+
+body{
+    font-family: "CEFFontsCJK-Regular";
+}

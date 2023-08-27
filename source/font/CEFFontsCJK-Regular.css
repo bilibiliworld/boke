@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "CEF Fonts CJK";
+    src: url("CEFFontsCJK-Regular.eot"); /* IE9 */
+    src: url("CEFFontsCJK-Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("CEFFontsCJK-Regular.woff2") format("woff2"), /* chrome 36+, firefox 39+,iOS 10+, Android 67+ */
+    url("CEFFontsCJK-Regular.woff") format("woff"), /* chrome, firefox */
+    url("CEFFontsCJK-Regular.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("CEFFontsCJK-Regular.svg#CEF Fonts CJK") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
