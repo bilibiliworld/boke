@@ -17,6 +17,7 @@
 
     // 开始 PJAX 执行的函数
     document.addEventListener('pjax:send', function () {
+        
     });
     // PJAX 完成之后执行的函数，可以和上面的重载放在一起
     document.addEventListener('pjax:complete', function () {
@@ -26,7 +27,8 @@
             Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
             newScript.appendChild(document.createTextNode(content))
             item.parentNode.replaceChild(newScript, item)
-        })
+        });
+        $.getScript("/js/init.js",function(){articleInit();});    
     });
 
     // Pjax请求错误时，跳转到404页面

@@ -2,7 +2,6 @@
 title: Hexo下安装live2d插件
 categories: 文章
 summary: 其实很简单的，而且效果还好
-top: true
 tags:
   - Hexo
   - live2d

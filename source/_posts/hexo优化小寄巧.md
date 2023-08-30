@@ -27,3 +27,17 @@ date: 2023-08-26 19:31:30
     /* 动态切换背景颜色. */
 }
 ```
+## 网站鼠标写法
+>在主题的css文件夹中新建mouse.css，其中写入：
+```
+body {
+    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),
+        default;
+}
+a,
+img {
+    cursor: url(https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),
+        default;
+}
+```
+>在头文件(head.ejs)中引入`<link rel="stylesheet" href="/css/mouse.css">`

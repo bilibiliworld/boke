@@ -197,9 +197,9 @@ reward:
 # minCharNumber: Approve copyright information by copying at least how many characters.
 # 是否激活复制文章时追加博客和作者的版权信息.
 copyright:
-  enable: false
-  minCharNumber: 120 # 至少复制多少个字符就追加版权信息.
-  description: 本文章著作权归作者所有，任何形式的转载都请注明出处。
+  enable: true
+  minCharNumber: 100 # 至少复制多少个字符就追加版权信息.
+  description: 知识共享，但请标明出处哦~
 
 # Whether to activate the mathjax, this is a global configuration, but the post still does not open the mathjax rendering.
 # Considering that the mathjax loading is time consuming,
@@ -255,14 +255,14 @@ snowdown:
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
   avatar: /medias/avatar.jpg
-  career: Software Engineer
-  introduction: If you wish to succeed, you should use persistence as your good friend, experience as your reference, prudence as your brother and hope as your sentry.
+  career: Network Engineer
+  introduction: 可可爱爱，没有脑袋
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
 # 在“关于”页面配置"我的项目"信息，如果你不需要这些信息则可以将其设置为不激活或者将其删除.
 myProjects:
-  enable: true
+  enable: false
   data:
     hexo-theme-matery:
       icon: fas fa-file-alt
@@ -359,7 +359,7 @@ livere:
 # 管理验证码: https://console.cloud.tencent.com/captcha/graphical
 tcaptcha:
   enable: true
-  appid: xxxxxxxxxx # 你的appid
+  appid: 197972698 # 你的appid
 
 # The configuration of the Valine comment module is not activated by default.
 # To use it, activate the configuration item and set appId and appKey.
@@ -370,10 +370,10 @@ valine:
   appKey: mPj94cGBXFHY3UMrQROzd0XD
   notify: false
   verify: false
-  visitor: true
+  visitor: false
   avatar: 'mm' # Gravatar style : mm/identicon/monsterid/wavatar/retro/hide
   pageSize: 10
-  placeholder: 'just go go' # Comment Box placeholder
+  placeholder: '该博主很懒，未设置个性签名' # Comment Box placeholder
   background: /medias/comment_bg.png
   coolpushkey: 
 
@@ -440,7 +440,7 @@ baiduAnalytics:
   id:
 
 # 百度搜索资源平台提交链接
-baiduPush: true
+baiduPush: false
 
 # The used front-end library can be replaced with the corresponding CDN address as needed,
 # If the specific version is not specified below, you can use the latest version.
@@ -571,7 +571,7 @@ tuxiaochao:
   productId:
 #背景canvas-nest
 canvas_nest:
-  enable: true
+  enable: false
   color: 0,0,255 # 线条颜色, 默认: '0,0,0' ；三个数字分别为(R,G,B)，注意用,分割
   pointColor: 0,0,255 # 交点颜色, 默认: '0,0,0' ；三个数字分别为(R,G,B)，注意用,分割
   opacity: 0.7 # 线条透明度（0~1）, 默认: 0.5
@@ -588,7 +588,7 @@ ribbon:
 
 # 背景动态彩带.
 ribbon_dynamic:
-  enable: false
+  enable: true
 
 # sharejs文章分享模块.
 # 支持顺序，可选项目为twitter, facebook, google, qq, qzone, wechat, weibo, douban, linkedin.
@@ -618,10 +618,6 @@ subtitle:
 navMenu:
   mleft: false # 二级侧栏子菜单是否对齐左边
   bgColor: " " # 二级侧栏子菜单背景颜色,留空即为全局背景色
-
-# 网页预加载.
-instantpage:
-  enable: true
 
 # banner 是否每日切换.
 # 若为 false, 则 banner 默认为 /medias/banner/0.jpg

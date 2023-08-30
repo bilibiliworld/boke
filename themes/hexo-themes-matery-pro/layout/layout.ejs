@@ -15,11 +15,10 @@
 </main>
 
 <%- partial('_partial/footer') %>
-
 <%- partial('_partial/search') %>
 <%- partial('_partial/all_btn') %>
 <%- partial('_widget/pjax') %>
-
+    
 <script src="<%- theme.jsDelivr.url %><%- url_for(theme.libs.js.materialize) %>"></script>
 <script src="<%- theme.jsDelivr.url %><%- url_for(theme.libs.js.masonry) %>"></script>
 <script src="<%- theme.jsDelivr.url %><%- url_for(theme.libs.js.aos) %>"></script>
@@ -71,7 +70,7 @@
 <% } %>
 
 <% if (theme.tcaptcha.enable) { %>
-    <script src="https://ssl.captcha.qq.com/TCaptcha.js"></script>
+    <script src="https://turing.captcha.qcloud.com/TCaptcha.js"></script>
     <script src="<%- theme.jsDelivr.url %><%- url_for(theme.libs.js.tcaptcha) %>"></script>
     <button id="TencentCaptcha" data-appid="<%- theme.tcaptcha.appid %>" data-cbfn="callback" type="button"
             hidden></button>
@@ -160,10 +159,6 @@
 <% if (theme.ribbon_dynamic.enable) { %>
     <script type="text/javascript" src="<%- theme.jsDelivr.url %><%- url_for(theme.libs.js.ribbon_dynamic) %>"
             async="async"></script>
-<% } %>
-
-<% if (theme.instantpage.enable) { %>
-    <script src="<%- theme.jsDelivr.url %><%- url_for(theme.libs.js.instantpage) %>" type="module"></script>
 <% } %>
 
 </body>

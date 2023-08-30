@@ -55,12 +55,20 @@ printf("Hello World");
 ## 下划线
 ---
 
+## 彩色字体
+<font color=orange>这是一段橘色文本</font>
+
+## 高亮文本
+==这里是一段高亮文本==
+
+## 转义符号
+\#\# \`\`\` \-\-\- \<font>\</font>
+
 ## 链接
 [百度](www.baidu.com "一个垃圾的搜索引擎")
 
-## 图片
-![](https://iknow-pic.bj.bcebos.com/ac4bd11373f08202435160a659fbfbedaa641b63)
-
+## 豆瓣卡片
+{% douban movie 24745500 %}
 
 *斜体* **加粗** ***斜粗体***  <u>下划线</u>  ~~删除线~~  $\theta=x^2$  h<sub>2</sub>0  x<sup>2</sup> `代码` <big>放大</big>
 
