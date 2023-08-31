@@ -142,10 +142,10 @@ bangumi: # 追番设置
   vmid: 577489
   title: '追番列表'
   quote: '生命不息，追番不止！'
-  show: 1
-  lazyload: false
-  srcValue: 'https://gitee.com/rbq000/imgs/raw/master/img/1652171637292.jpg'
-  lazyloadAttrName: 'https://gitee.com/rbq000/imgs/raw/master/img/1652171637292.jpg'
+  show: 0
+  lazyload: true
+  srcValue: 
+  lazyloadAttrName: 
   loading:
   showMyComment: true
   pagination: false
@@ -155,8 +155,8 @@ bangumi: # 追番设置
   progress: true
   extraOrder: 1
   proxy:
-    host: '127.0.0.1'
-    port: '7890'
+    host: 
+    port: 
   extra_options:
     key: value
 cinema: # 追剧设置
@@ -180,7 +180,7 @@ cinema: # 追剧设置
  
 douban:
   id: 273706158
-  builtin: false
+  builtin: true
   item_per_page: 12
   meta_max_line: 4
   customize_layout: page
@@ -237,3 +237,4 @@ abbrlink:
   alg: crc16  #算法选项：crc16、crc32，区别见之前的文章，这里默认为crc16丨crc32比crc16复杂一点，长一点
   rep: dec    #输出进制：十进制和十六进制，默认为10进制。丨dec为十进制，hex为十六进制
  
+
