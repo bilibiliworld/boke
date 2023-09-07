@@ -28,7 +28,7 @@
             newScript.appendChild(document.createTextNode(content))
             item.parentNode.replaceChild(newScript, item)
         });
-        $.getScript("/js/init.js",function(){articleInit();});    
+        $.getScript("/js/init.js",function(){articleInit();});  
     });
 
     // Pjax请求错误时，跳转到404页面

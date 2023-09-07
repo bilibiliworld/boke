@@ -1,4 +1,5 @@
 https://www.loliking.xyz/anime/index.html
+https://www.loliking.xyz/bag/index.html
 https://www.loliking.xyz/posts/18243.html
 https://www.loliking.xyz/cinema/index.html
 https://www.loliking.xyz/posts/45413.html
@@ -12,13 +13,12 @@ https://www.loliking.xyz/posts/16107.html
 https://www.loliking.xyz/posts/39758.html
 https://www.loliking.xyz/404.html
 https://www.loliking.xyz/about/index.html
-https://www.loliking.xyz/bag/index.html
-https://www.loliking.xyz/books/index.html
 https://www.loliking.xyz/categories/index.html
+https://www.loliking.xyz/books/index.html
 https://www.loliking.xyz/contact/index.html
 https://www.loliking.xyz/friends/index.html
-https://www.loliking.xyz/movies/index.html
 https://www.loliking.xyz/games/index.html
+https://www.loliking.xyz/movies/index.html
 https://www.loliking.xyz/songs/index.html
 https://www.loliking.xyz/tags/index.html
 https://www.loliking.xyz/
@@ -27,9 +27,9 @@ https://www.loliking.xyz/tags/%E6%95%99%E7%A8%8B/
 https://www.loliking.xyz/tags/Hexo/
 https://www.loliking.xyz/tags/live2d/
 https://www.loliking.xyz/tags/matery-pro/
+https://www.loliking.xyz/tags/%E4%BA%8C%E7%BB%B4%E7%A0%81/
 https://www.loliking.xyz/tags/Onedrive/
 https://www.loliking.xyz/tags/%E6%B3%A8%E5%86%8C%E8%A1%A8/
-https://www.loliking.xyz/tags/%E4%BA%8C%E7%BB%B4%E7%A0%81/
 https://www.loliking.xyz/tags/Helps/
 https://www.loliking.xyz/tags/hexo/
 https://www.loliking.xyz/tags/%E7%BE%8E%E5%8C%96/
