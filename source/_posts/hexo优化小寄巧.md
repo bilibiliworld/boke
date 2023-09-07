@@ -41,3 +41,18 @@ img {
 }
 ```
 >在头文件(head.ejs)中引入`<link rel="stylesheet" href="/css/mouse.css">`
+
+## html语言显示
+>在你的 md 文章页中，部分内容不想经过 Hexo 渲染，则包一层 raw 标签：
+```
+{% raw %}
+<div class="">你的一些代码...</div>
+<script>你的一些代码...</script>
+{% endraw %}
+```
+例如：
+{% raw %}
+<div class="">你的一些代码...</div>
+<script>你的一些代码...</script>
+{% endraw %}
+那么标签内的代码就不会被框架渲染了~

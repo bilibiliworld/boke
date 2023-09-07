@@ -4,7 +4,16 @@
   <url>
     <loc>https://www.loliking.xyz/anime/index.html</loc>
     
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.loliking.xyz/bag/index.html</loc>
+    
+    <lastmod>2023-09-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -128,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://www.loliking.xyz/bag/index.html</loc>
+    <loc>https://www.loliking.xyz/categories/index.html</loc>
     
     <lastmod>2023-08-25</lastmod>
     
@@ -138,15 +147,6 @@
   
   <url>
     <loc>https://www.loliking.xyz/books/index.html</loc>
-    
-    <lastmod>2023-08-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.loliking.xyz/categories/index.html</loc>
     
     <lastmod>2023-08-25</lastmod>
     
@@ -173,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://www.loliking.xyz/movies/index.html</loc>
+    <loc>https://www.loliking.xyz/games/index.html</loc>
     
     <lastmod>2023-08-25</lastmod>
     
@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://www.loliking.xyz/games/index.html</loc>
+    <loc>https://www.loliking.xyz/movies/index.html</loc>
     
     <lastmod>2023-08-25</lastmod>
     
@@ -211,7 +211,7 @@
 
   <url>
     <loc>https://www.loliking.xyz/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -219,126 +219,126 @@
   
   <url>
     <loc>https://www.loliking.xyz/tags/ai%E7%BB%98%E7%94%BB/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.loliking.xyz/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.loliking.xyz/tags/Hexo/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.loliking.xyz/tags/live2d/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.loliking.xyz/tags/matery-pro/</loc>
-    <lastmod>2023-08-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.loliking.xyz/tags/Onedrive/</loc>
-    <lastmod>2023-08-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.loliking.xyz/tags/%E6%B3%A8%E5%86%8C%E8%A1%A8/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.loliking.xyz/tags/%E4%BA%8C%E7%BB%B4%E7%A0%81/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.loliking.xyz/tags/Onedrive/</loc>
+    <lastmod>2023-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.loliking.xyz/tags/%E6%B3%A8%E5%86%8C%E8%A1%A8/</loc>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.loliking.xyz/tags/Helps/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.loliking.xyz/tags/hexo/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.loliking.xyz/tags/%E7%BE%8E%E5%8C%96/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.loliking.xyz/tags/Obsidian/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.loliking.xyz/tags/Markdown/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.loliking.xyz/tags/%E9%82%AE%E7%AE%B1/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.loliking.xyz/tags/cloudflare/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.loliking.xyz/tags/%E6%8F%92%E4%BB%B6/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.loliking.xyz/tags/tampermonkey/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.loliking.xyz/tags/%E6%96%B9%E6%B3%95%E8%AE%BA/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -347,7 +347,7 @@
   
   <url>
     <loc>https://www.loliking.xyz/categories/%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2023-08-31</lastmod>
+    <lastmod>2023-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
