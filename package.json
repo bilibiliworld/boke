@@ -16,7 +16,7 @@
     "babel-core": "^6.26.3",
     "gitalk": "^1.8.0",
     "gulp": "^4.0.2",
-    "hexo": "^6.3.0",
+    "hexo": "^7.0.0",
     "hexo-abbrlink": "^2.2.1",
     "hexo-bilibili-bangumi": "^1.8.8",
     "hexo-douban": "^2.2.3",
